@@ -4,4 +4,4 @@ Section: utils
 Priority: optional
 Architecture: all
 Maintainer: Tzahi Turgeman <Tzahi.t@hackerseye.com>
-Description: Terminal-based privilege escalation recon tool.
+Description: Fast Recon - Terminal-based privilege escalation recon tool.
