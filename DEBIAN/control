@@ -1,0 +1,7 @@
+Package: fast-recon
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: all
+Maintainer: Tzahi Turgeman <Tzahi.t@hackerseye.com>
+Description: Terminal-based privilege escalation recon tool.
